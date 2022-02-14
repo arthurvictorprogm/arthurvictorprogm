@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando Typescript..
 - 📫 Contate-me no email: arthurvictorprogm@gmail.com
-- 😄 Pronouns: Ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvictorprogm&show_icons=true&theme=dracula)
 
