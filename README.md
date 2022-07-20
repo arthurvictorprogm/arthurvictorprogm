@@ -1,8 +1,6 @@
-## Olá eu sou Arthur Victor!
+## Hello 👋! I'am Arthur Victor
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Typescript..
-- 📫 Contate-me no email: arthurvictorprogm@gmail.com
+Front-end Developer, currently studying at the university [PUC Minas](https://www.pucminas.br/)
 
 <div align="center">
   <a href="https://github.com/arthurvictorprogm">
