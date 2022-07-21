@@ -13,6 +13,8 @@ Front-end Developer, currently studying at the university [PUC Minas](https://ww
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="node" width="40" height="40"/>
   
+  ## Github Stats
+  
 <div align="center">
   <img height="155px" src="https://github-readme-stats.vercel.app/api?username=arthur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvictorprogm&layout=compact&langs_count=7&theme=dracula"/>
