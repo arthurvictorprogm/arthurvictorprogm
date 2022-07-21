@@ -16,7 +16,7 @@ Front-end Developer, currently studying at the university [PUC Minas](https://ww
 <div align="center">
   <img height="155px" src="https://github-readme-stats.vercel.app/api?username=arthur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvictorprogm&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/842561249081688064/999523516305113228/picasion.com_cf7d07bb716e02c2fbcd4365b5b2d5bf.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/842561249081688064/999526982440206356/picasion.com_cf7d07bb716e02c2fbcd4365b5b2d5bf.gif">
 </div>
   
  ## Contact
